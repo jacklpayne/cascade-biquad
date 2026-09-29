@@ -1,6 +1,0 @@
-2 6 biquad 4 fast 40 /ecel/UFAD/jacklacy/Desktop/RTL/iir/work 1 0 0 0 151 0
-2 6 biquad 7 fast__1 40 /ecel/UFAD/jacklacy/Desktop/RTL/iir/work 1 0 0 0 151 0
-2 6 biquad 7 fast__2 40 /ecel/UFAD/jacklacy/Desktop/RTL/iir/work 1 0 0 0 151 0
-2 6 biquad 7 fast__3 40 /ecel/UFAD/jacklacy/Desktop/RTL/iir/work 1 0 0 0 151 0
-2 14 cascade_biquad 4 fast 40 /ecel/UFAD/jacklacy/Desktop/RTL/iir/work 1 0 131072 0 687 0
-1 13 iir_sine_test 4 fast 40 /ecel/UFAD/jacklacy/Desktop/RTL/iir/work 1 0 131072 0 766 0
